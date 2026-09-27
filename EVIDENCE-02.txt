@@ -1,0 +1,28 @@
+EVIDENCE-02
+
+Artifact:
+RCR Recursive Contradiction Resolution-2025-07-21.md
+
+Private source:
+HyperSane/OBSIDIAN
+
+Git commit date:
+July 21, 2025
+
+Commit:
+28b409b2bd95fb95cf6dbfee2d269dc974fe9e16
+
+Git blob:
+245c566b95d79da6ca50cea22f6cbf7563269592
+
+SHA-256:
+3b10f8e6247611ede0ae9eecf44f99f236d911950e5af5569d5f61cfcb670e41
+
+Relevant historical architecture:
+
+- recursive contradiction detection
+- recursive filtering
+- testing whether resolutions create new contradictions
+- pruning, reweighting, or replacing structures
+- recursively re-evaluating changes
+- application across ethics, logic, belief, philosophy, and systems

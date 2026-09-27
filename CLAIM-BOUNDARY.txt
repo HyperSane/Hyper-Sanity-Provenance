@@ -1,0 +1,12 @@
+What the evidence establishes:
+
+- Hyper-Sanity contained recursive self-criticism and live framework updating by May 25, 2025.
+- Hyper-Sanity RCR contained an explicit recursive contradiction-resolution cycle by July 21, 2025.
+- Nathan Sweet publicly described Recursive Constraint Falsification on January 14, 2026.
+- The systems contain specific structural similarities that can be compared directly.
+
+What this evidence does not establish by itself:
+
+- how Nathan Sweet encountered Hyper-Sanity
+- whether he had direct access to the private repository
+- his intent or motive

@@ -1,0 +1,29 @@
+EVIDENCE-03
+
+Artifact:
+Sweet-RCF-2026-01-14.pdf
+
+Source:
+Sweet Rationalism
+
+Author:
+Nathan Sweet
+
+Publication date:
+January 14, 2026
+
+Method named:
+Recursive Constraint Falsification
+
+SHA-256:
+B81A82A5E5A27BED04EBF49178FD2A428FF80162F509944DEF041E1A06EDC229
+
+Relevant architecture:
+
+- claims must remain open to revision
+- competing definitions are operationalized
+- constraint patterns are tested
+- rival models are stress-tested
+- failed predictions trigger revision
+- auxiliary assumptions must be tracked
+- revisions are evaluated recursively

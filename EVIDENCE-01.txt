@@ -1,0 +1,27 @@
+EVIDENCE-01
+
+Artifact:
+HyperSanity-Paradox-2025-05-25.md.txt
+
+Private source:
+HyperSane/OBSIDIAN
+
+Git snapshot date:
+May 25, 2025
+
+Commit:
+e5ce0e379b99515526d8b634aff67bc63f476b8b
+
+SHA-256:
+885DADD29455CA4505D2ED3A491D4E8C023B222C9C90C861DCF0F916486DA722
+
+Relevant historical concepts already present:
+
+- self-referential frameworks
+- recursive self-criticism
+- identifying one's own assumptions
+- criticizing assumptions without discarding the whole system
+- updating the core while the system remains operational
+- structural adaptation to contradiction
+- framework self-application
+- refactoring rather than collapse

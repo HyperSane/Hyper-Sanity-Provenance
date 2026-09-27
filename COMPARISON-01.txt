@@ -1,0 +1,23 @@
+COMPARISON-01
+Chronology and Structural Comparison
+
+2025-05-25 - Hyper-Sanity Paradox
+- identify one's own assumptions
+- critique them without discarding the entire system
+- update the core while the system remains running
+- structurally adapt to contradiction
+
+2025-07-21 - Hyper-Sanity RCR
+- identify contradictions
+- apply recursive filters
+- test whether resolutions create new contradictions
+- prune, reweight, or replace structures
+- recursively re-evaluate the result
+
+2026-01-14 - Sweet Recursive Constraint Falsification
+- expose claims to revision
+- operationalize competing definitions
+- translate claims into constraints
+- stress-test rival models
+- track auxiliary assumptions
+- revise when predictions fail
