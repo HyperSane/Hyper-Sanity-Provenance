@@ -23,3 +23,27 @@ Historical file SHA-256:
 Historical PDF SHA-256:
 
 B81A82A5E5A27BED04EBF49178FD2A428FF80162F509944DEF041E1A06EDC229
+
+## Public Evidence
+
+### 2025-05-25 - Hyper-Sanity Paradox
+Public excerpt:
+[PUBLIC-EXCERPT-01.md](./PUBLIC-EXCERPT-01.md)
+
+This preserves the documented recursive self-criticism, self-updating, and live framework refactoring architecture present in the May 25, 2025 Git snapshot.
+
+### 2025-07-21 - Recursive Contradiction Resolution
+Public excerpt:
+[PUBLIC-EXCERPT-02.md](./PUBLIC-EXCERPT-02.md)
+
+This preserves the documented RCR cycle of contradiction detection, recursive filtering, restructuring, and recursive re-evaluation.
+
+### 2026-01-14 - Recursive Constraint Falsification
+Evidence summary:
+[EVIDENCE-03.txt](./EVIDENCE-03.txt)
+
+Structural comparison:
+[COMPARISON-01.txt](./COMPARISON-01.txt)
+
+Claim boundaries:
+[CLAIM-BOUNDARY.txt](./CLAIM-BOUNDARY.txt)
