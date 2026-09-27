@@ -16,7 +16,7 @@ This repository documents a chronology of preserved Hyper-Sanity materials and a
 
 The preserved historical note describes a framework that applies criticism to itself, identifies its own assumptions, critiques those assumptions without discarding the entire system, and updates its core while remaining operational.
 
-Public excerpt: [PUBLIC-EXCERPT-01.md](./PUBLIC-EXCERPT-01.md)
+Public excerpt: [PUBLIC-EXCERPT-01.md](./Nathan-Sweet-Steals/Recursive%20Theft/PUBLIC-EXCERPT-01.md)
 
 Historical artifact SHA-256:
 
@@ -32,7 +32,7 @@ The preserved RCR note formalizes a recursive cycle:
 4. test whether proposed resolutions create additional contradictions;
 5. recursively re-evaluate the modified system.
 
-Public excerpt: [PUBLIC-EXCERPT-02.md](./PUBLIC-EXCERPT-02.md)
+Public excerpt: [PUBLIC-EXCERPT-02.md](./Nathan-Sweet-Steals/Recursive%20Theft/PUBLIC-EXCERPT-02.md)
 
 Historical artifact SHA-256:
 
@@ -42,7 +42,7 @@ Historical artifact SHA-256:
 
 The archived Sweet Rationalism article presents Recursive Constraint Falsification as a method in which claims are operationalized, translated into constraints, subjected to counterfactual testing, tracked together with auxiliary assumptions, and revised when the evidential structure requires it.
 
-Public excerpt: [PUBLIC-EXCERPT-03.md](./PUBLIC-EXCERPT-03.md)
+Public excerpt: [PUBLIC-EXCERPT-03.md](./Nathan-Sweet-Steals/Recursive%20Theft/PUBLIC-EXCERPT-03.md)
 
 Archived PDF SHA-256:
 
@@ -75,7 +75,7 @@ This table documents functional correspondences. It does not, by itself, establi
 - whether the similarities are the result of direct copying, indirect exposure, independent convergence, or another pathway;
 - intent or motive.
 
-See [CLAIM-BOUNDARY.txt](./CLAIM-BOUNDARY.txt) for the short-form boundary statement.
+See [CLAIM-BOUNDARY.txt](./Nathan-Sweet-Steals/Recursive%20Theft/CLAIM-BOUNDARY.txt) for the short-form boundary statement.
 
 ## Preservation method
 

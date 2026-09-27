@@ -16,7 +16,7 @@ For the consolidated chronology and structural comparison, see **[PROVENANCE-SUM
 
 ### 2025-05-25 - Hyper-Sanity Paradox
 
-[PUBLIC-EXCERPT-01.md](./PUBLIC-EXCERPT-01.md)
+[PUBLIC-EXCERPT-01.md](./Nathan-Sweet-Steals/Recursive%20Theft/PUBLIC-EXCERPT-01.md)
 
 Documents recursive self-criticism, identifying assumptions, updating the core while the system remains operational, and structural adaptation to contradiction.
 
@@ -26,7 +26,7 @@ Historical file SHA-256:
 
 ### 2025-07-21 - Recursive Contradiction Resolution
 
-[PUBLIC-EXCERPT-02.md](./PUBLIC-EXCERPT-02.md)
+[PUBLIC-EXCERPT-02.md](./Nathan-Sweet-Steals/Recursive%20Theft/PUBLIC-EXCERPT-02.md)
 
 Documents contradiction detection, recursive filtering, testing resolutions for new contradictions, structural modification, and recursive re-evaluation.
 
@@ -36,7 +36,7 @@ Historical file SHA-256:
 
 ### 2026-01-14 - Recursive Constraint Falsification
 
-[PUBLIC-EXCERPT-03.md](./PUBLIC-EXCERPT-03.md)
+[PUBLIC-EXCERPT-03.md](./Nathan-Sweet-Steals/Recursive%20Theft/PUBLIC-EXCERPT-03.md)
 
 Documents definitional tightening, constraint translation, counterfactual stress testing, auxiliary-assumption tracking, revision, and calibration.
 
@@ -46,11 +46,11 @@ Archived PDF SHA-256:
 
 ## Supporting files
 
-- [COMPARISON-01.txt](./COMPARISON-01.txt) - short structural chronology
-- [CLAIM-BOUNDARY.txt](./CLAIM-BOUNDARY.txt) - what the evidence does and does not establish
-- [EVIDENCE-01.txt](./EVIDENCE-01.txt) - May 2025 artifact record
-- [EVIDENCE-02.txt](./EVIDENCE-02.txt) - July 2025 RCR artifact record
-- [EVIDENCE-03.txt](./EVIDENCE-03.txt) - January 2026 Sweet artifact record
+- [COMPARISON-01.txt](./Nathan-Sweet-Steals/Recursive%20Theft/COMPARISON-01.txt) - short structural chronology
+- [CLAIM-BOUNDARY.txt](./Nathan-Sweet-Steals/Recursive%20Theft/CLAIM-BOUNDARY.txt) - what the evidence does and does not establish
+- [EVIDENCE-01.txt](./Nathan-Sweet-Steals/Recursive%20Theft/EVIDENCE-01.txt) - May 2025 artifact record
+- [EVIDENCE-02.txt](./Nathan-Sweet-Steals/Recursive%20Theft/EVIDENCE-02.txt) - July 2025 RCR artifact record
+- [EVIDENCE-03.txt](./Nathan-Sweet-Steals/Recursive%20Theft/EVIDENCE-03.txt) - January 2026 Sweet artifact record
 
 ## Private-source note
 
